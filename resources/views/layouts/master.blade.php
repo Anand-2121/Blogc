@@ -21,6 +21,6 @@
         </style>
     </head>
     <body class="antialiased">
-        <p>welcome page</p>
+        <p>Master page</p>
     </body>
 </html>

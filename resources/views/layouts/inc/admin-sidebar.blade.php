@@ -21,6 +21,6 @@
         </style>
     </head>
     <body class="antialiased">
-        <p>welcome page</p>
+        <p>sidebar page</p>
     </body>
 </html>
